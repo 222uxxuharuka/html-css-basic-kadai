@@ -20,15 +20,17 @@
 #middle{
   width: 800px;
   height: 800px;
-  background-color:#ffd9df ;
+  background-color: #ffd9df;
   padding-top: 20px;
   padding-bottom: 20px;
   margin-left: auto;
   margin-right: auto;
-  text-align: center; 
-  display: flex; 
-  justify-content: center; 
-  gap: 10px; 
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  gap: 10px; */
+  margin:20px auto;
+  position: relative;
 }
 
 #middle-child01, #middle-child02, #middle-child03 {
@@ -39,7 +41,6 @@
      display: flex;
   justify-content: center;
 gap: 10px;
-position: relative; 
 }
 #middle-child01 {
    position: absolute;
